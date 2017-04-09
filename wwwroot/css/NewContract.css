@@ -1,0 +1,14 @@
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: grey;
+    clear: left;
+    text-align: center;
+}
+th{
+    text-align: right;
+        }
+td {
+    text-align-last: right;
+    text-indent: 10px;
+}
